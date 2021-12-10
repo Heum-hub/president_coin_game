@@ -4,7 +4,7 @@
 
 Dapp helps money poll
 
-1BNB = 100 YEOL = 100 MYUNG
+1BNB = 100 YEOL = 100 MYUNG(Test with klay Testnet but deploy in BSC Mainnet)
 
 We can predict next president by referencing supply of each coin
 
